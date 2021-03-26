@@ -7,3 +7,6 @@ Este projeto tem o objetivo de demonstrar as funções básicas do git com o git
 
 ## Imagens
 *As imagens serão inseridas com a tag <img>*
+
+## Iniciar o desenvolvimento do CSS
+Aplicar estilos para a página.
