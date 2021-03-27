@@ -10,6 +10,6 @@ Este projeto tem o objetivo de demonstrar as funções básicas do git com o git
 
 ## Iniciar o desenvolvimento do CSS
 Aplicar estilos para a página.
-- [] Ajustar a cor da fonte no <body>.
-- [] Ajustar o background.
-- [] Ajustar o estilo para o <p>.
+- [X] Ajustar a cor da fonte no `<body>`.
+- [X] Ajustar o background.
+- [] Ajustar o estilo para o `<p>`.
