@@ -3,3 +3,8 @@ body{
     background-image:linear-gradient(rgba(105, 105, 189,.4),rgba(10,10,100,.6));
     background-repeat: no-repeat;
 }
+
+p{
+    color: grey;
+    font-family: coursive;
+}
