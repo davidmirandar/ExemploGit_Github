@@ -12,4 +12,5 @@ Este projeto tem o objetivo de demonstrar as funções básicas do git com o git
 Aplicar estilos para a página.
 - [X] Ajustar a cor da fonte no `<body>`.
 - [X] Ajustar o background.
-- [] Ajustar o estilo para o `<p>`.
+- [X] Ajustar o estilo para o `<p>`.
+- [ ] 
