@@ -13,4 +13,3 @@ Aplicar estilos para a página.
 - [X] Ajustar a cor da fonte no `<body>`.
 - [X] Ajustar o background.
 - [X] Ajustar o estilo para o `<p>`.
-- [ ] 
